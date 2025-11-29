@@ -68,7 +68,7 @@ sistema de controle de estoque/
 Classe `Produto` com atributos:
 - `id_produto`: ID único no banco
 - `nome_produto`: Nome do produto
-- `codigo_produto`: Código de barras (identificador único)
+- `codigo_barra_produto`: Código de barras (identificador único)
 - `estoque`: Quantidade disponível
 - `descricao_produto`: Descrição detalhada
 

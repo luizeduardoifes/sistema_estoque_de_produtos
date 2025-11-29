@@ -5,5 +5,5 @@ class Produto:
     estoque: int 
     id_produto: int
     nome_produto: str
-    codigo_produto: int
+    codigo_barra_produto: int
     descricao_produto: str
